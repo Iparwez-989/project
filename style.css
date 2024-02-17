@@ -1,0 +1,22 @@
+.page1{
+    min-height: 100vh
+}
+.self{
+    width: 45vw;
+    height: 80vh;
+    object-fit: cover;
+}
+.desc{
+    border: 1px solid black;
+}
+.pic{
+    border: 1px solid black;
+}
+.bdr{
+    border-bottom: 5px solid black ;
+}
+
+.project:hover{
+    scale: 1.5;
+    transition: 0.3s ease-in-out ;
+}
